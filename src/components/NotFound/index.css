@@ -1,23 +1,23 @@
 .not-found-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 50px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px;
 }
 .not-image {
-    width: 100%;
-    max-width: 450px;
+  width: 100%;
+  max-width: 450px;
 }
 .not-found-heading {
-    color: #475569;
-    font-family: 'Roboto';
-    font-size: 36px;
-    font-weight: bold;
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-weight: bold;
 }
 .not-found-desc {
-    margin: 0;
-    color: #64748b;
-    font-family: 'Roboto';
-    font-size: 18px;
-    text-align: center;
+  margin: 0;
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  text-align: center;
 }

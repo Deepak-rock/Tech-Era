@@ -1,73 +1,73 @@
 .courses-details-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 50px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px;
 }
 .course-details {
-    display: flex;
-    width: 100%;
-    background-color: #ffffff;
-    box-shadow: 3px 2px 10px 1px #e8e8e8;
-    border-radius: 20px;
+  display: flex;
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: 3px 2px 10px 1px #e8e8e8;
+  border-radius: 20px;
 }
 .courses-detail-image {
-    width: 40%;
+  width: 40%;
 }
 .content {
-    width: 60%;
-    padding: 0 20px;
+  width: 60%;
+  padding: 0 20px;
 }
 .course {
-    color: #1e293b;
-    font-family: 'Roboto';
-    font-size: 36px;
-    font-weight: bold;
-} 
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-weight: bold;
+}
 .description {
-    color: #475569;
-    font-family: 'Roboto';
-    font-size: 20px;
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
 }
 .failure-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 50px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 20px;
 }
 .failure-img {
-    width: 100%;
-    max-width: 450px;
+  width: 100%;
+  max-width: 450px;
 }
 .failure-heading {
-    color: #475569;
-    font-family: 'Roboto';
-    font-size: 36px;
-    font-weight: bold;
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-weight: bold;
 }
 .failure-desc {
-    margin: 0;
-    color: #64748b;
-    font-family: 'Roboto';
-    font-size: 18px;
+  margin: 0;
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
 }
 .retry-btn {
-    margin: 20px 0;
-    padding: 10px 30px;
-    color: #ffffff;
-    font-family: 'Roboto';
-    font-size: 18px;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    border-radius: 4px;
-    background-color: #4656a1;
+  margin: 20px 0;
+  padding: 10px 30px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #4656a1;
 }
 .loader-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
 }
