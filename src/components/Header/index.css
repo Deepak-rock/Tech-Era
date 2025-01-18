@@ -1,0 +1,22 @@
+.nav-container {
+    background-color: #f1f5f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 20px;
+}
+.responsive-container {
+    width: 100%;
+    max-width: 1200px;
+}
+.logo {
+    width: 100px;
+}
+@media screen and (min-width: 768px) {
+  .nav-container {
+    padding: 20px;
+  }
+  .logo {
+    width: 150px;
+  }
+}

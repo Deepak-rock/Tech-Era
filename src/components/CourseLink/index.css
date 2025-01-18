@@ -1,0 +1,19 @@
+.courses-item {
+    width: 180px;
+    flex-grow: 1;
+}
+.link {
+    text-decoration: none;
+    color: #1e293b;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.courses-img {
+    width: 80px;
+}
+.courses-name {
+    color: #1e293b;
+    font-family: 'Roboto';
+    font-size: 22px;
+}
